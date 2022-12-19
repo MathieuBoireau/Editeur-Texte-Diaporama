@@ -1,0 +1,8 @@
+edu/mermet/tp9/DialogConfigMenus.class
+edu/mermet/tp9/actions/ActionHowTo.class
+edu/mermet/tp9/WindowSuggestion.class
+edu/mermet/tp9/DialogHowTo.class
+edu/mermet/tp9/fenetres/FenetreConversion$EcouteurClic.class
+edu/mermet/tp9/actions/ActionConfigMenus.class
+edu/mermet/tp9/PreferencesManager.class
+edu/mermet/tp9/DialogHowTo$EcouteurChangeAide.class
